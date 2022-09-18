@@ -11,7 +11,7 @@ Lista do conteúdo relevante a todo curso Spring Boot Essentials 2. Para mais in
 
 - **01. O que é spring boot**
 - **02. Criando projeto na pedreira pt 01**
-- **03. Configurando hot swap**
+- **03. Criando projeto na pedreira pt 02**
 - **04. Setup do projeto com Spring Initializr**
 - **05. Padrão REST e POST**
 - **06. Padrão REST e POST 2**
