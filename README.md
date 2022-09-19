@@ -13,7 +13,7 @@ Lista do conteúdo relevante a todo curso Spring Boot Essentials 2. Para mais in
 - **02. Criando projeto na pedreira pt 01**
 - **03. Criando projeto na pedreira pt 02**
 - **04. @Component, @Autowired, @SpringBootAplication**
-- **04. Setup do projeto com Spring Initializr**
+- **05. Hot Swap com Spring Boot Devtools**
 - **05. Padrão REST e POST**
 - **06. Padrão REST e POST 2**
 - **07. Padrão REST, PUT e DELETE 3**
