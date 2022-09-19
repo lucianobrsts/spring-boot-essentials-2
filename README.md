@@ -17,7 +17,7 @@ Lista do conteúdo relevante a todo curso Spring Boot Essentials 2. Para mais in
 - **06. Gerando projeto com start.spring.io**
 - **07. Método GET pt 01**
 - **08. Método GET pt 02**
-- **06. Padrão REST e POST 2**
+- **09. Método POST**
 - **07. Padrão REST, PUT e DELETE 3**
 - **08. Adicionando Spring Data JPA com MySQL**
 - **09. Adicionando Spring Data JPA com MySQL 2**
