@@ -18,16 +18,10 @@ import java.util.List;
 public class AnimeController {
     private DateUtil dateUtil;
 
-    //localhost:8080/anime/list
     @GetMapping(path = "list")
     public List<Anime> list() {
         log.info(dateUtil.formatLocalDateTimeToDatabaseStyle(LocalDateTime.now()));
         return List.of(new Anime("Boku No Hero"), new Anime("Bersek"));
     }
 
-    @GetMapping(path = "list2")
-    public List<Anime> list2() {
-        log.info(dateUtil.formatLocalDateTimeToDatabaseStyle(LocalDateTime.now()));
-        return List.of(new Anime("Boku No Hero"), new Anime("Bersek"), new Anime("One Piece"));
-    }
 }
