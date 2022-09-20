@@ -18,7 +18,7 @@ Lista do conteúdo relevante a todo curso Spring Boot Essentials 2. Para mais in
 - **07. Método GET pt 01**
 - **08. Método GET pt 02**
 - **09. Método POST**
-- **07. Padrão REST, PUT e DELETE 3**
+- **10. Método DELETE**
 - **08. Adicionando Spring Data JPA com MySQL**
 - **09. Adicionando Spring Data JPA com MySQL 2**
 - **10. Tratamento de Erros em REST**
