@@ -20,7 +20,7 @@ Lista do conteúdo relevante a todo curso Spring Boot Essentials 2. Para mais in
 - **09. Método POST**
 - **10. Método DELETE**
 - **11. Método PUT**
-- **11. Adicionando Spring Data JPA com MySQL**
+- **12. Instalando Docker e executando container Mysql**
 - **09. Adicionando Spring Data JPA com MySQL 2**
 - **10. Tratamento de Erros em REST**
 - **11. Tratamento de Erros em REST - Exception Handler**
